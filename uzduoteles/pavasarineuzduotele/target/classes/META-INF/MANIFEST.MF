@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ed
+Build-Jdk: 10.0.2
+Implementation-Title: pavasarineuzduotele
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: lt.bit.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/pavasarineuzduotele
+Created-By: Maven Integration for Eclipse
+
